@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9h5hDPzwkFNxco55dA5kDP5Oj9KhfY7INOshWkVAUXwpxM0pYlLc3UZOlubhHnQ34svrOHsLtlSrYwHPTcC/Q==",
+  "success": true,
+  "projectFilePath": "C:\\src\\QUIC-File-Transfer-Example\\example-quic-file-transfer\\example-quic-file-transfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aman.Ganapathy\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\example-quic-file-transfer.props" />
+</Project>

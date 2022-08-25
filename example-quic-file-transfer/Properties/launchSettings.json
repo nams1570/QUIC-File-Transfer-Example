@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "example-quic-file-transfer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:61340;http://localhost:61341"
+    }
+  }
+}

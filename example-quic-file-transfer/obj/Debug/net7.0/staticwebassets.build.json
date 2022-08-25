@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bm8JR21FIi0Qa8lddK8Gi9fc+ijczg87uog2mwpYlIg=",
+  "Source": "example-quic-file-transfer",
+  "BasePath": "_content/example-quic-file-transfer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
